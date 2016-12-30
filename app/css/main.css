@@ -13,4 +13,26 @@ tfoot, th, thead, time, tr, ul, var, video {
   border: 0; }
 
 body {
-  background: #000; }
+  background: #676666; }
+
+.test {
+  background: url(../img/top_line.png);
+  height: 80px; }
+
+.test-container {
+  display: inline-block;
+  height: 80px;
+  margin-left: 400px; }
+  .test-container h1 {
+    display: inline-block;
+    font-size: 58px;
+    color: #fff;
+    text-align: center;
+    padding: 0 20px;
+    margin-bottom: 20px; }
+
+.separate {
+  background: url(../img/separate.png);
+  width: 2px;
+  height: 100%;
+  display: inline-block; }
