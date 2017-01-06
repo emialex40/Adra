@@ -1,38 +1,7 @@
-a, abbr, address, article, aside, audio, b,
-blockquote, body, canvas, caption, cite, code,
-dd, del, details, dfn, div, dl, dt, em,
-fieldset, figcaption, figure, footer, form,
-h1, h2, h3, h4, h5, h6, header, hgroup,
-html, i, iframe, img, ins, kbd, label,
-legend, li, mark, menu, nav, object,
-ol, p, pre, q, samp, section, small, span,
-strong, sub, summary, sup, table, tbody, td,
-tfoot, th, thead, time, tr, ul, var, video {
-  margin: 0;
-  padding: 0;
-  border: 0; }
-
 body {
-  background: #676666; }
+  padding-top: 117px;
+  background-color: #10132e; }
 
-.test {
-  background: url(../img/top_line.png);
-  height: 80px; }
-
-.test-container {
-  display: inline-block;
-  height: 80px;
-  margin-left: 400px; }
-  .test-container h1 {
-    display: inline-block;
-    font-size: 58px;
-    color: #fff;
-    text-align: center;
-    padding: 0 20px;
-    margin-bottom: 20px; }
-
-.separate {
-  background: url(../img/separate.png);
-  width: 2px;
-  height: 100%;
-  display: inline-block; }
+.top_banner {
+  height: 472px;
+  position: relative; }
